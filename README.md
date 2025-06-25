@@ -2,7 +2,7 @@
 
 We intend to participate in the forthcoming SMT-COMP 2025 by submitting **Z3-Parti-Z3++** for **the Parallel Track** categories.
 
-**Z3-Parti-Z3++** is a **derived** tool from Z3 and intend for **QF_RDL, QF_IDL, QF_LRA, QF_LIA, QF_NRA, and QF_NIA**. The authors of **Z3-Parti-Z3++** are **Mengyu Zhao and Shaowei Cai**.
+**Z3-Parti-Z3++** is a **wrapper** tool from Z3 and intend for **QF_RDL, QF_IDL, QF_LRA, QF_LIA, QF_NRA, and QF_NIA**. The authors of **Z3-Parti-Z3++** are **Mengyu Zhao and Shaowei Cai**.
 
 The system description is named `Z3_Parti_Z3pp_at_SMT_COMP_2025.pdf`.
 

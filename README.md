@@ -31,7 +31,13 @@ In our future work, a comprehensive description of the additional mechanisms int
 
 Download solver binary files in Zenodo.
 
+Install mpi related library:
+
+```bash
+apt-get install python3-mpi4py
+```
+
 Test in the instance:
 ```bash
-python3 solver/run_AriParti.py path_to_test_case.smt2
+ python3 solver/run_AriParti.py test-instances/lia-sat-10.4.smt2
 ```

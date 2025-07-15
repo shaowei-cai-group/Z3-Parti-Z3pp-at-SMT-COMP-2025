@@ -8,7 +8,7 @@ The system description is named `Z3_Parti_Z3pp_at_SMT_COMP_2025.pdf`.
 
 As per the submission rule, we are providing the pseudo-random 32-bit unsigned number **998244353**.
 
-Zenodo DOI: [TBD]
+Zenodo DOI: 10.5281/zenodo.15763078
 
 ## Variable-level Partitioning for Distributed SMT Solving
 
@@ -39,5 +39,5 @@ apt-get install python3-mpi4py
 
 Test in the instance:
 ```bash
- python3 solver/run_AriParti.py test-instances/lia-sat-10.4.smt2
+./Z3-Parti-Z3pp-at-SMT-COMP-2025-build/solver/run_AriParti.py ./Z3-Parti-Z3pp-at-SMT-COMP-2025-build/test-instances/lia-sat-10.4.smt2 64
 ```

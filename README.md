@@ -39,5 +39,5 @@ apt-get install python3-mpi4py
 
 Test in the instance:
 ```bash
-./Z3-Parti-Z3pp-at-SMT-COMP-2025-build/solver/run_AriParti.py ./Z3-Parti-Z3pp-at-SMT-COMP-2025-build/test-instances/lia-sat-10.4.smt2 64
+./Z3-Parti-Z3pp-at-SMT-COMP-2025-build/solver/run_AriParti.py 64 ./Z3-Parti-Z3pp-at-SMT-COMP-2025-build/test-instances/lia-sat-10.4.smt2
 ```
